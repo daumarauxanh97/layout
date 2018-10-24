@@ -6,12 +6,12 @@ Thực hiện bởi [Lê Đức Thắng]
 [Liên kết](https://github.com/colombo-trainee/trainee_2018/blob/master/frontend/layout/simple%20layouts.psd)
 ## Giao diện
 1. [Layout 1](https://daumarauxanh97.github.io/layout1/bai1)
-2. [Layout 2](https://daumarauxanh97.github.io/layout1/bai2)
-3. [Layout 3](https://daumarauxanh97.github.io/layout1/bai3)
-4. [Layout 4](https://daumarauxanh97.github.io/layout1/bai4)
-5. [Layout 5](https://daumarauxanh97.github.io/layout1/bai5)
-6. [Layout 6](https://daumarauxanh97.github.io/layout1/bai6)
-7. [Layout 7](https://daumarauxanh97.github.io/layout1/bai7)
+2. [Layout 2](https://daumarauxanh97.github.io/layout2/bai2)
+3. [Layout 3](https://daumarauxanh97.github.io/layout3/bai3)
+4. [Layout 4](https://daumarauxanh97.github.io/layout4/bai4)
+5. [Layout 5](https://daumarauxanh97.github.io/layout5/bai5)
+6. [Layout 6](https://daumarauxanh97.github.io/layout6/bai6)
+7. [Layout 7](https://daumarauxanh97.github.io/layout7/bai7)
 
 ## Kiến thức nắm được
 
