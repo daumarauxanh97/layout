@@ -1,0 +1,17 @@
+body
+{
+	width: 980px;
+	margin: auto;
+}
+h1
+{
+	text-align: center;
+}
+.container{
+	margin-bottom: 70px;
+	width: 980px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-content: space-around;
+}

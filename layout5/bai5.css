@@ -1,0 +1,24 @@
+body
+{
+	width: 980px;
+	margin: auto;
+}
+h1
+{
+	text-align: center;
+}
+.img
+{
+	margin-right: 8px;
+	width: 400px;
+	float: left;
+	height: 360px;
+}
+.container{
+	margin-top: 20px;
+	width: 980px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	
+}

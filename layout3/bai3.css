@@ -1,0 +1,38 @@
+body
+{
+	width: 980px;
+	margin: auto;
+}
+h1
+{
+	text-align: center;
+}
+.content{
+	margin: auto;
+}
+.img
+{
+	width: 980px;
+	height: 480px;
+}
+.input1{
+	display: inline-block;
+	margin-top:20px;
+    width: 47%;
+    height: 70px;
+    background-color: #CFCFCF;
+    border-radius:5%;
+-moz-border-radius:5%;
+-webkit-border-radius:5%;
+}
+.input1 p{
+	padding-top: 3px;
+	padding-left: 10px;
+	font-size: 20px;
+	display: inline-block;
+}
+.submit{
+	width: 100px;
+	height: 50px;
+	font-size: 20px;
+}
