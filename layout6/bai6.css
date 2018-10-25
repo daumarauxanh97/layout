@@ -1,26 +1,26 @@
 body
 {
-	width: 980px;
-	margin: auto;
+    padding: 40px 100px;
+	text-align: justify;
 }
 h1
 {
 	text-align: center;
 }
-.container{
-	width: 100%;
-	height: 220px;
-	background-color: #EEE9E9;
-	margin-bottom: 20px;
-}
 .content{
+	margin-bottom: 30px;
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
 }
 .img{
-	padding: 10px 0px 0px 10px;
+	width: 100%;
 }
 .text{
+	margin-right: 20px;
 	margin-left: 10px;
+}
+.box{
+    background-color: lightgray;
+    padding: 10px 10px 10px 10px;
 }
