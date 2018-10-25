@@ -1,17 +1,21 @@
 body
 {
-	width: 980px;
-	margin: auto;
+    margin: 0 auto;
+    padding: 40px 200px;
 }
 h1
 {
 	text-align: center;
 }
+.img{
+	width: 100%;
+}
+.content{
+	margin: auto;
+}
 .container{
 	margin-bottom: 70px;
-	width: 980px;
 	display: flex;
-	flex-wrap: wrap;
+	flex-direction: row;
 	justify-content: space-around;
-	align-content: space-around;
 }
